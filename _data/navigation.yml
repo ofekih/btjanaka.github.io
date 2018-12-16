@@ -1,4 +1,16 @@
 # Site navigation links
 
-- title: Projects
-  url: /projects/
+- title: Research
+  url: /research/
+
+- title: Competitive Programming
+  url: /competitive-programming/
+
+- title: Robotics
+  url: /robotics/
+
+- title: Modular Origami
+  url: /modular-origami/
+
+- title: Other Projects
+  url: /other-projects/
