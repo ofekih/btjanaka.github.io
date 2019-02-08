@@ -12,11 +12,13 @@ comments: false
 At its heart, competitive programming says: "Given these problems and a time
 limit, solve as many as you can!" I participate in programming competitions
 mainly as part of [ACM@UCI](https://clubs.uci.edu/acm). In addition, I maintain
-accounts on several websites which I use for practice.
+accounts on several websites which I use for practice. Finally, you can view my
+solutions to various problems
+[here](https://github.com/btjanaka/competitive-programming-solutions).
 
 ## Accounts
 
--   [UVa](https://uhunt.onlinejudge.org/id/945356) - over 200 problems solved and counting!
+-   [UVa](https://uhunt.onlinejudge.org/id/945356) - over 300 problems solved and counting!
 -   [Leetcode](https://leetcode.com/btjanaka/)
 -   [Kattis](https://open.kattis.com/users/btjanaka)
 -   [Hackerrank](https://www.hackerrank.com/btjanaka)
