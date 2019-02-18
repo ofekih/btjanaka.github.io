@@ -24,7 +24,7 @@ field](<https://en.wikipedia.org/wiki/Force_field_(chemistry)>) developed by the
 [Open Force Field Initiative](https://openforcefield.org/), an organization
 which includes the Mobley Lab. I am also working on
 [MOVES](https://github.com/btjanaka/moves), a Slack app that uses
-[3dmol.js](http://3dmol.csb.pitt.edu/) to enable users to view molecules in
+[3dmol.js](https://3dmol.csb.pitt.edu/) to enable users to view molecules in
 Slack.
 
 ## Mall Security Robots
